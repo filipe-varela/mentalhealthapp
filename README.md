@@ -1,16 +1,8 @@
-# mentalhealthapp
+# Mental Health App
 
-A new Flutter project.
+An app inspired from the design of [Choirul Syafril](https://dribbble.com/shots/15002657-Mental-Health-App)'s work on Dribbble.
 
-## Getting Started
+The goal here is just to practice/test my flutter skills, therefore I am not looking forward for any return of any sort for this project. 
+For a sample of this code, download the APK file in the releases section or just check the source code.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+All credits are reserved for the original author.
